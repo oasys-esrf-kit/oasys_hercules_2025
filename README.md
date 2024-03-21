@@ -4,6 +4,10 @@ Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines wit
 ## Download and install Oasys:
 Follow the instructions here: https://github.com/oasys-kit/oasys-installation-scripts/wiki
 
+later on, you may install two specific addons:
+
+- ESRF addon: https://github.com/oasys-esrf-kit/OASYS1-ESRF-Extensions/blob/master/README.md
+- Shadow4 beta addon (install as users) https://github.com/oasys-kit/OASYS1-SHADOW4/blob/master/README.md
 ## Contents
 
 - A) Introduction to Oasys
