@@ -1,13 +1,12 @@
-# oasys_hercules (22 March 2024)
+# oasys_hercules (21 March 2025)
 Material for three-hours tutorial "Modelling Synchrotron Radiation Beamlines with OASYS" at the HERCULES school
 
 ## Download and install Oasys:
 Follow the instructions here: https://github.com/oasys-kit/oasys-installation-scripts/wiki
 
-later on, you may install two specific addons:
+later on, you may install one specific addon:
 
 - ESRF addon: https://github.com/oasys-esrf-kit/OASYS1-ESRF-Extensions/blob/master/README.md
-- Shadow4 beta addon (install as users) https://github.com/oasys-kit/OASYS1-SHADOW4/blob/master/README.md
 ## Contents
 
 - A) Introduction to Oasys
@@ -18,19 +17,19 @@ later on, you may install two specific addons:
 
 ## Slides
 
-- A) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2024_A_intro.pptx
-- B) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2024_B_power_transport.pptx
-- C) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2024_C_photon_transport.pptx
-- D) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2024_D_coherence_transport.pptx
+- A) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_A_intro.pptx
+- B) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_B_power_transport.pptx
+- C) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_C_photon_transport.pptx
+- D) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_D_coherence_transport.pptx
 
 ## Workspaces
 
-There are four workspaces for the course. You can download this complete github repo (https://github.com/oasys-esrf-kit/oasys_hercules_2024/archive/refs/heads/main.zip), or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
+There are four workspaces for the course. You can download this complete github repo (https://github.com/oasys-esrf-kit/oasys_hercules_2025/archive/refs/heads/main.zip), or (easier) from Oasys use the option "Load Remote" and enter the URL of the workspaces: 
 
-- B1) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2024/main/hercules_power_transport_sources.ows
-- B2) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2024/main/hercules_power_transport_optical_elements.ows
-- C) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2024/main/hercules_photon_transport.ows
-- D) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2024/main/hercules_coherence_transport.ows
+- B1) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2025/main/hercules_power_transport_sources.ows
+- B2) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2025/main/hercules_power_transport_optical_elements.ows
+- C) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2025/main/hercules_photon_transport.ows
+- D) https://raw.githubusercontent.com/oasys-esrf-kit/oasys_hercules_2025/main/hercules_coherence_transport.ows
 
 ## Following the course
 
@@ -40,5 +39,5 @@ The course can be followed using OASYS installed locally in your own laptop.
 
 There are other documents where you can find useful information on OASYS:
 
-- ShadowOUI tutorial and examples: https://github.com/oasys-kit/shadowOui-tutorial
+- ShadowOUI tutorial and examples (this is for ShadowOui, the old version of shadow4): https://github.com/oasys-kit/shadowOui-tutorial
 - Slides and workspaces from the last OASYS school: https://github.com/oasys-kit/oasys_school/tree/master/second
