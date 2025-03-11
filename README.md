@@ -17,10 +17,10 @@ later on, you may install one specific addon:
 
 ## Slides
 
-- A) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_A_intro.pptx
-- B) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_B_power_transport.pptx
-- C) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_C_photon_transport.pptx
-- D) https://github.com/oasys-esrf-kit/oasys_hercules_2024/raw/main/hercules2025_D_coherence_transport.pptx
+- A) https://github.com/oasys-esrf-kit/oasys_hercules_2025/raw/main/hercules2025_A_intro.pptx
+- B) https://github.com/oasys-esrf-kit/oasys_hercules_2025/raw/main/hercules2025_B_power_transport.pptx
+- C) https://github.com/oasys-esrf-kit/oasys_hercules_2025/raw/main/hercules2025_C_photon_transport.pptx
+- D) https://github.com/oasys-esrf-kit/oasys_hercules_2025/raw/main/hercules2025_D_coherence_transport.pptx
 
 ## Workspaces
 
@@ -40,4 +40,4 @@ The course can be followed using OASYS installed locally in your own laptop.
 There are other documents where you can find useful information on OASYS:
 
 - ShadowOUI tutorial and examples (this is for ShadowOui, the old version of shadow4): https://github.com/oasys-kit/shadowOui-tutorial
-- Slides and workspaces from the last OASYS school: https://github.com/oasys-kit/oasys_school/tree/master/second
+- Slides and workspaces from the last OASYS school: https://github.com/oasys-kit/bloms2023
