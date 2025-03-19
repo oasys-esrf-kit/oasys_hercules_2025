@@ -10,7 +10,7 @@ Follow the instructions here:
 later on, you may install one specific addon:
 
 - ESRF addon: https://github.com/oasys-esrf-kit/OASYS1-ESRF-Extensions/blob/master/README.md
-- 
+
 ## Contents
 
 - A) Introduction to Oasys
